@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_home_fragment_text_size">20sp</dimen>
+    <dimen name="btn_home_fragment_text_size">20sp</dimen>
+    <dimen name="tv_bottom_margin_bottom">20dp</dimen>
+</resources>
