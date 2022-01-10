@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/tv_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/tv_question_margin_horizontal"
+        android:fontFamily="@font/roboto_medium"
+        android:textAlignment="textStart"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="@dimen/tv_question_text_size"
+        tools:text="@tools:sample/lorem[10]" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_A"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/btn_answer_horizontal_margin"
+        android:layout_marginTop="@dimen/btn_A_top_margin"
+        android:backgroundTint="@color/buttonBackgroundColor"
+        android:fontFamily="@font/roboto_regular"
+        android:textAlignment="textStart"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="@dimen/btn_answer_text_size"
+        app:cornerRadius="@dimen/btn_radius"
+        tools:text="@tools:sample/lorem[5]" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_B"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/btn_answer_horizontal_margin"
+        android:layout_marginTop="@dimen/btn_answer_top_margin"
+        android:backgroundTint="@color/buttonBackgroundColor"
+        android:fontFamily="@font/roboto_regular"
+        android:textAlignment="textStart"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="@dimen/btn_answer_text_size"
+        app:cornerRadius="@dimen/btn_radius"
+        tools:text="@tools:sample/lorem[5]" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/btn_answer_horizontal_margin"
+        android:layout_marginTop="@dimen/btn_answer_top_margin"
+        android:backgroundTint="@color/buttonBackgroundColor"
+        android:fontFamily="@font/roboto_regular"
+        android:textAlignment="textStart"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="@dimen/btn_answer_text_size"
+        app:cornerRadius="@dimen/btn_radius"
+        tools:text="@tools:sample/lorem[5]" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_D"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/btn_answer_horizontal_margin"
+        android:layout_marginTop="@dimen/btn_answer_top_margin"
+        android:backgroundTint="@color/buttonBackgroundColor"
+        android:fontFamily="@font/roboto_regular"
+        android:textAlignment="textStart"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="@dimen/btn_answer_text_size"
+        app:cornerRadius="@dimen/btn_radius"
+        tools:text="@tools:sample/lorem[5]" />
+
+</LinearLayout>

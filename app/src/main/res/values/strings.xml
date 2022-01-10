@@ -3,4 +3,5 @@
     <string name="tv_home_fragment">ZEKANI TEST ETMEYE HAZIR MISIN?</string>
     <string name="home_fragment_start_button">BAŞLAT</string>
     <string name="copyright">2021 | Copyright by Berk YALNIZCIK</string>
+    <string name="btn_show_my_result">SHOW MY RESULT</string>
 </resources>

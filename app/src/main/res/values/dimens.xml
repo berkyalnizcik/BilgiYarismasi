@@ -3,4 +3,17 @@
     <dimen name="tv_home_fragment_text_size">20sp</dimen>
     <dimen name="btn_home_fragment_text_size">20sp</dimen>
     <dimen name="tv_bottom_margin_bottom">20dp</dimen>
+    <dimen name="arrow_bottom_margin">16dp</dimen>
+    <dimen name="arrow_top_margin">16dp</dimen>
+    <dimen name="tv_page_position_text_size">12sp</dimen>
+    <dimen name="tv_page_position_start_margin">16dp</dimen>
+    <dimen name="tv_page_position_bottom_margin">16dp</dimen>
+    <dimen name="btn_show_my_result_text_size">16sp</dimen>
+    <dimen name="btn_radius">8dp</dimen>
+    <dimen name="tv_question_margin_horizontal">12dp</dimen>
+    <dimen name="tv_question_text_size">28sp</dimen>
+    <dimen name="btn_answer_text_size">16sp</dimen>
+    <dimen name="btn_answer_horizontal_margin">12dp</dimen>
+    <dimen name="btn_A_top_margin">20dp</dimen>
+    <dimen name="btn_answer_top_margin">8dp</dimen>
 </resources>
