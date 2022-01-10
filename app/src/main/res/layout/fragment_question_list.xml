@@ -59,6 +59,7 @@
         android:id="@+id/btnShowToMyResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/btn_show_to_my_result_bottom_margin"
         android:backgroundTint="@color/buttonBackgroundColor"
         android:fontFamily="@font/roboto_regular"
         android:text="@string/btn_show_my_result"

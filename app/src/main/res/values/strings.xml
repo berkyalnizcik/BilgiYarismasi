@@ -3,7 +3,7 @@
     <string name="tv_home_fragment">ZEKANI TEST ETMEYE HAZIR MISIN?</string>
     <string name="home_fragment_start_button">BAŞLAT</string>
     <string name="copyright">2021 | Copyright by Berk YALNIZCIK</string>
-    <string name="btn_show_my_result">SHOW MY RESULT</string>
+    <string name="btn_show_my_result">SONUCUMU GÖSTER</string>
     <string name="tv_result_text">TEBRİKLER!\nTESTİ TAMAMLADINIZ.</string>
     <string name="tv_right_answer_info_text">Doğru cevap sayısı:</string>
     <string name="tv_false_answer_info_text">Yanlış cevap sayısı:</string>
