@@ -29,5 +29,11 @@
 <h3>Screenshots in App</h3>
 <img width="240px" src="https://i.ibb.co/0VrQwLg/Ekran-G-r-nt-s-25.png" alt="SplashScreen" border="0">
 <img width="240px" src="https://i.ibb.co/m0997tC/Ekran-G-r-nt-s-26.png" alt="HomeFragment" border="0">
+</br>
+<img width="240px" src="https://i.ibb.co/Cm1yzq9/Ekran-G-r-nt-s-35.png" alt="QuestionListFragment" border="0">
+<img width="240px" src="https://i.ibb.co/8j259P1/Ekran-G-r-nt-s-36.png" alt="QuestionListFragment" border="0">
+</br>
+<img width="240px" src="https://i.ibb.co/1QqqyJC/Ekran-G-r-nt-s-37.png" alt="QuestionListFragment" border="0">
+<img width="240px" src="https://i.ibb.co/g4GQCSV/Ekran-G-r-nt-s-38.png" alt="ResultFragment" border="0">
 </div>
 </div>
