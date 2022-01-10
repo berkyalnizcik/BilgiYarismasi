@@ -4,4 +4,8 @@
     <string name="home_fragment_start_button">BAŞLAT</string>
     <string name="copyright">2021 | Copyright by Berk YALNIZCIK</string>
     <string name="btn_show_my_result">SHOW MY RESULT</string>
+    <string name="tv_result_text">TEBRIKLER!\nTesti tamamladınız.</string>
+    <string name="tv_right_answer_info_text">Doğru cevap sayısı:</string>
+    <string name="tv_false_answer_info_text">Yanlış cevap sayısı:</string>
+    <string name="btn_back_to_question_text">TEKRAR DENE</string>
 </resources>
