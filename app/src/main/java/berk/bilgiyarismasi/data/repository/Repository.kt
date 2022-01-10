@@ -1,14 +1,13 @@
 package berk.bilgiyarismasi.data.repository
 
-import berk.bilgiyarismasi.data.local.dao.AnswerDao
 import berk.bilgiyarismasi.data.local.dao.QuestionDao
 
 class Repository(
     private val questionDao: QuestionDao,
-    private val answerDao: AnswerDao
+    // private val answerDao: AnswerDao
 ) {
     fun getAllQuestionAndAnswer() = questionDao.getAllQuestionAndAnswer()
-/*  // if you want to use this functions, clear comment line
+/*  // if you want to use this functions, You can clear comment line and use them
     suspend fun insertQuestion(question: Question) = questionDao.insertQuestion(question)
     suspend fun deleteQuestion(question: Question) = questionDao.deleteQuestion(question)
     suspend fun updateQuestion(question: Question) = questionDao.updateQuestion(question)
