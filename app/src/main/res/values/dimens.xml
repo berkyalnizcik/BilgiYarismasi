@@ -19,4 +19,6 @@
     <dimen name="tv_result_text_size">28sp</dimen>
     <dimen name="tv_right_and_false_answers_text_size">20sp</dimen>
     <dimen name="btn_back_to_question_text_size">16sp</dimen>
+    <dimen name="splash_copyright_bottom_margin">8dp</dimen>
+    <dimen name="splash_copyright_text_size">16sp</dimen>
 </resources>

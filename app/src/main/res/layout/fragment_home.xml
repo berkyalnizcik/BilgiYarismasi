@@ -31,7 +31,7 @@
         android:textColor="@color/primaryTextColor"
         android:textSize="@dimen/btn_home_fragment_text_size"
         android:textStyle="bold"
-        app:cornerRadius="8dp"
+        app:cornerRadius="@dimen/btn_radius"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
